@@ -1,13 +1,13 @@
 [
   {
     "FileName": "NetworkCheck.exe",
-    "Url": "https://github.com/valetechsolutionsltd/windows-client-tools/releases/download/v1.0.1/NetworkCheck.exe",
+    "Url": "https://github.com/valetechsolutionsltd/windows-client-tools/releases/download/v1.0.2/NetworkCheck.exe",
     "LocalPath": "C:\\Valetech\\NetworkCheck.exe",
-    "Version": "2026062901"
+    "Version": "2026063001"
   },
   {
     "FileName": "DNSCheck.exe",
-    "Url": "https://github.com/valetechsolutionsltd/windows-client-tools/releases/download/v1.0.1/DNSCheck.exe",
+    "Url": "https://github.com/valetechsolutionsltd/windows-client-tools/releases/download/v1.0.2/DNSCheck.exe",
     "LocalPath": "C:\\Valetech\\DNSCheck.exe",
     "Version": "2026062901"
   }
